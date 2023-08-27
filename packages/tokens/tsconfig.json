@@ -1,0 +1,4 @@
+{
+  "extends":"@msrsoftware/ts-config/base.json",
+  "include": ["src"],
+}
